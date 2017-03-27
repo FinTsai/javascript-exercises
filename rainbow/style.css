@@ -1,0 +1,19 @@
+/* Styles go here */
+
+.rainbow {
+  width:200px;
+  height:200px;
+  background-color:black;
+}
+
+#pink {
+  background-color:pink;
+}
+
+#red {
+  background-color:red;
+}
+
+#purple {
+  background-color:purple;
+}
